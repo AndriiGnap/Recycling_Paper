@@ -3,6 +3,17 @@ from imutils import paths
 import requests
 import cv2
 import os
+import pathlib as pl
+
+# initialize the directory
+data_folder = pl.Path(pl.PureWindowsPath('f:\\Work\\Pycharm_Projects\\'
+                                   'Recycling_Paper\\images\\MC-1A'))
+
+# initialize the index of the latest 'image_save'
+total_number = []
+for current_file in data_folder.iterdir():
+    total_number.append(current_file.stem)
+total = int(max(total_number)) + 1
 
 # construct the argument parse and parse the arguments
 parser = argparse.ArgumentParser()
@@ -13,7 +24,6 @@ args = vars(parser.parse_args())
 # grab the list of URLs from the input file, then initialize the
 # total number of images downloaded thus far
 rows = open(args["urls"]).read().strip().split("\n")
-total = 0
 
 # loop the URLs
 for url in rows:
