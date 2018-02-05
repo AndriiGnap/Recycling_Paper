@@ -1,4 +1,4 @@
-# Recycling_Paper
+# Recycling Paper
 
 In order to run the script, copy the command below to Command Prompt/Terminal:
 ```
