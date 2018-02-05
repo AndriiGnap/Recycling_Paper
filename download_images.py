@@ -7,7 +7,7 @@ import pathlib as pl
 
 # initialize the directory
 data_folder = pl.Path(pl.PureWindowsPath('f:\\Work\\Pycharm_Projects\\'
-                                   'Recycling_Paper\\images\\MC-1A'))
+                                         'Recycling_Paper\\images\\MC-11C'))
 
 # initialize the index of the latest 'image_save'
 total_number = []
