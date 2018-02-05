@@ -1,5 +1,5 @@
 # Recycling_Paper
 
-To run the script put the next line into Command Promot/Terminal:
+In order to run the script, copy the command below to Command Prompt/Terminal:
 
 python download_images.py -u urls/MC-1A.txt -o images/MC-1A
