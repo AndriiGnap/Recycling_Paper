@@ -59,7 +59,7 @@ To see the whole bunch of images, click [here](https://drive.google.com/open?id=
 ## Библиотеки для сегментации изображений
 
 * [CRF-RNN Keras/Tensorflow version](https://github.com/sadeepj/crfasrnn_keras)
-* [DeepLabv3+ built in TensorFlow](DeepLabv3+ built in TensorFlow)
+* [DeepLabv3+ built in TensorFlow](https://github.com/rishizek/tensorflow-deeplab-v3-plus)
 * [Efficient Annotation of Segmentation Datasets with Polygon-RNN++](http://www.cs.toronto.edu/polyrnn/)
 * [Fast, modular reference implementation and easy training of Semantic Segmentation algorithms in PyTorch](https://github.com/ycszen/TorchSeg)
 * [Fully Convolutional DenseNet (A.K.A 100 layer tiramisu) for semantic segmentation of images implemented in TensorFlow](https://github.com/HasnainRaz/FC-DenseNet-TensorFlow?utm_campaign=Deep%20Learning%20Weekly&utm_medium=email&utm_source=Revue%20newsletter)
