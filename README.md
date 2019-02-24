@@ -76,5 +76,5 @@ To see the whole bunch of images, click [here](https://drive.google.com/open?id=
 * [Image Segmentation. Introduction](https://leonardoaraujosantos.gitbooks.io/artificial-inteligence/content/image_segmentation.html)
 * [Instance segmentation with OpenCV](https://www.pyimagesearch.com/2018/11/26/instance-segmentation-with-opencv/)
 * [Semantic Segmentation](http://www.cs.toronto.edu/~tingwuwang/semantic_segmentation.pdf)
-* [https://neurohive.io/ru/vidy-nejrosetej/u-net-image-segmentation/](U-Net: нейросеть для сегментации изображений)
+* [U-Net: нейросеть для сегментации изображений](https://neurohive.io/ru/vidy-nejrosetej/u-net-image-segmentation/)
 * [Небольшое исследование свойств простой U-net, классической сверточной сети для сегментации](https://habr.com/ru/company/ods/blog/431512/)
