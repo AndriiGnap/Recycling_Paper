@@ -7,11 +7,6 @@ python download_images.py -u urls/MC-1A.txt -o images/MC-1A
 
 To see the whole bunch of images, click [here](https://drive.google.com/open?id=1XziHAVKZdIyzfYfFJ8JfktIea8KQDwaK).
 
-## Библиотеки для работы с ТБО
-
-* [My Bachelor Thesis code mainly in TensorFlow for image recognition of waste](https://github.com/jodik/Bachelor-thesis)
-* [GarbageDetection](https://github.com/FriendOrYes/GarbageDetection/tree/bot_only)
-* [Dataset of images of trash; Torch-based CNN for garbage image classification](https://github.com/garythung/trashnet)
 
 ## План бакалаврской работы
 
@@ -40,3 +35,16 @@ To see the whole bunch of images, click [here](https://drive.google.com/open?id=
     3.2 Алгоритм процесів навчання і тестування системи
     
     3.3 Порівняння результатів навчання з наявними системами сегментації зображень
+
+## Библиотеки для работы с ТБО
+
+* [My Bachelor Thesis code mainly in TensorFlow for image recognition of waste](https://github.com/jodik/Bachelor-thesis)
+* [GarbageDetection](https://github.com/FriendOrYes/GarbageDetection/tree/bot_only)
+* [Dataset of images of trash; Torch-based CNN for garbage image classification](https://github.com/garythung/trashnet)
+
+## Библиотеки для распознавания образов
+
+* [A Simple and Versatile Framework for Object Detection and Instance Recognition](https://github.com/TuSimple/simpledet)
+* [FAIR's research platform for object detection research, implementing popular algorithms like Mask R-CNN and RetinaNet](https://github.com/facebookresearch/Detectron)
+* [Mask R-CNN for object detection and instance segmentation on Keras and TensorFlo](https://github.com/matterport/Mask_RCNN)
+* [YOLO for object detection tasks](https://github.com/vietnguyen91/Yolo-v2-pytorch?fbclid=IwAR3R2d1AJSW8NQIie41EViMfGwgULmjqLcC6n7jxMON2oZ4B-5GdrhjYd0M)
