@@ -46,5 +46,12 @@ To see the whole bunch of images, click [here](https://drive.google.com/open?id=
 
 * [A Simple and Versatile Framework for Object Detection and Instance Recognition](https://github.com/TuSimple/simpledet)
 * [FAIR's research platform for object detection research, implementing popular algorithms like Mask R-CNN and RetinaNet](https://github.com/facebookresearch/Detectron)
-* [Mask R-CNN for object detection and instance segmentation on Keras and TensorFlo](https://github.com/matterport/Mask_RCNN)
+* [Mask R-CNN for object detection and instance segmentation on Keras and TensorFlow](https://github.com/matterport/Mask_RCNN)
 * [YOLO for object detection tasks](https://github.com/vietnguyen91/Yolo-v2-pytorch?fbclid=IwAR3R2d1AJSW8NQIie41EViMfGwgULmjqLcC6n7jxMON2oZ4B-5GdrhjYd0M)
+
+## Туториалы по распознаванию образов
+
+* [A Practical Guide to Object Detection using the Popular YOLO Framework – Part III (with Python codes)](https://www.analyticsvidhya.com/blog/2018/12/practical-guide-object-detection-yolo-framewor-python/?utm_source=twitter.com)
+* [Object Detection with 10 lines of code](https://towardsdatascience.com/object-detection-with-10-lines-of-code-d6cb4d86f606)
+* [UNDERSTANDING DEEP LEARNING FOR OBJECT DETECTION](http://zoey4ai.com/2018/05/12/deep-learning-object-detection/)
+* [Using Object Detection for Complex Image Classification Scenarios Part 1](https://towardsdatascience.com/using-object-detection-for-complex-image-classification-scenarios-part-1-779c87d1eecb)
