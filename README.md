@@ -55,3 +55,26 @@ To see the whole bunch of images, click [here](https://drive.google.com/open?id=
 * [Object Detection with 10 lines of code](https://towardsdatascience.com/object-detection-with-10-lines-of-code-d6cb4d86f606)
 * [UNDERSTANDING DEEP LEARNING FOR OBJECT DETECTION](http://zoey4ai.com/2018/05/12/deep-learning-object-detection/)
 * [Using Object Detection for Complex Image Classification Scenarios Part 1](https://towardsdatascience.com/using-object-detection-for-complex-image-classification-scenarios-part-1-779c87d1eecb)
+
+## Библиотеки для сегментации изображений
+
+* [CRF-RNN Keras/Tensorflow version](https://github.com/sadeepj/crfasrnn_keras)
+* [DeepLabv3+ built in TensorFlow](DeepLabv3+ built in TensorFlow)
+* [Efficient Annotation of Segmentation Datasets with Polygon-RNN++](http://www.cs.toronto.edu/polyrnn/)
+* [Fast, modular reference implementation and easy training of Semantic Segmentation algorithms in PyTorch](https://github.com/ycszen/TorchSeg)
+* [Fully Convolutional DenseNet (A.K.A 100 layer tiramisu) for semantic segmentation of images implemented in TensorFlow](https://github.com/HasnainRaz/FC-DenseNet-TensorFlow?utm_campaign=Deep%20Learning%20Weekly&utm_medium=email&utm_source=Revue%20newsletter)
+* [Semantic image segmentation in Tensorflow](https://github.com/arahusky/Tensorflow-Segmentation)
+* [Semantic Segmentation Suite in TensorFlow. Implement, train, and test new Semantic Segmentation models easily!](https://github.com/GeorgeSeif/Semantic-Segmentation-Suite)
+
+## Туториалы по сегментации изображений
+
+* [A Brief History of CNNs in Image Segmentation: From R-CNN to Mask R-CNN](https://blog.athelas.com/a-brief-history-of-cnns-in-image-segmentation-from-r-cnn-to-mask-r-cnn-34ea83205de4)
+* [A LOOK AT IMAGE SEGMENTATION USING CNNS](https://mohitjain.me/2018/09/30/a-look-at-image-segmentation/?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more)
+* [An overview of semantic image segmentation](https://www.jeremyjordan.me/semantic-segmentation/?fbclid=IwAR3hi-MXCUBtkwo7Urh5GkSCi3NsrHXZ2jPd2YIje9VeubcPx59Nz1LiAUk)
+* [Diving into Deep Convolutional Semantic Segmentation Networks and Deeplab_V3](https://medium.freecodecamp.org/diving-into-deep-convolutional-semantic-segmentation-networks-and-deeplab-v3-4f094fa387df)
+* [How to do Semantic Segmentation using Deep learning](https://medium.com/nanonets/how-to-do-image-segmentation-using-deep-learning-c673cc5862ef)
+* [Image Segmentation. Introduction](https://leonardoaraujosantos.gitbooks.io/artificial-inteligence/content/image_segmentation.html)
+* [Instance segmentation with OpenCV](https://www.pyimagesearch.com/2018/11/26/instance-segmentation-with-opencv/)
+* [Semantic Segmentation](http://www.cs.toronto.edu/~tingwuwang/semantic_segmentation.pdf)
+* [https://neurohive.io/ru/vidy-nejrosetej/u-net-image-segmentation/](U-Net: нейросеть для сегментации изображений)
+* [Небольшое исследование свойств простой U-net, классической сверточной сети для сегментации](https://habr.com/ru/company/ods/blog/431512/)
