@@ -78,3 +78,11 @@ To see the whole bunch of images, click [here](https://drive.google.com/open?id=
 * [Semantic Segmentation](http://www.cs.toronto.edu/~tingwuwang/semantic_segmentation.pdf)
 * [U-Net: нейросеть для сегментации изображений](https://neurohive.io/ru/vidy-nejrosetej/u-net-image-segmentation/)
 * [Небольшое исследование свойств простой U-net, классической сверточной сети для сегментации](https://habr.com/ru/company/ods/blog/431512/)
+
+## Datasets
+
+* [Garbage heap, junk heap, rubbish heap, scrapheap, trash heap, junk pile, trash pile, refuse heap](http://www.image-net.org/synset?wnid=n08573842)
+* [http://image-net.org/synset?wnid=n04555700](Wastepaper basket, waste-paper basket, wastebasket, waste basket, circular file)
+* [Looking for a dataset with recyclable items](https://www.reddit.com/r/datasets/comments/6enar8/looking_for_a_dataset_with_recyclable_items/)
+* [Newspaper and magazine images segmentation dataset Data Set](http://archive.ics.uci.edu/ml/datasets/Newspaper+and+magazine+images+segmentation+dataset)
+
